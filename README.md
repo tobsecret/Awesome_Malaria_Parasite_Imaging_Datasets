@@ -3,7 +3,7 @@ This repository is an attempt to list all malaria parasite imaging datasets (blo
 
 Current stage: humble beginnings
 
-Contributions welcome! Please report broken links and add new links + citations in the issues!
+Contributions welcome! Please report broken links and add new links + citations in the issues, or via pull requests!
 
 ## *Plasmodium falciparum*
  
