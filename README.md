@@ -11,7 +11,7 @@ Contributions welcome! Please report broken links and add new links + citations 
 
 - [Download link](https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip) | [website](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)<br>**Data:** 27558 images of individual cells (infected/ uninfected RBCs) segmented from thin blood smears<br>Sivaramakrishnan Rajaraman, Sameer K. Antani, Mahdieh Poostchi, Kamolrat Silamut, Md. A. Hossain, Richard J. Maude, Stefan Jaeger, and George R. Thoma. [**Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images.**](https://www.ncbi.nlm.nih.gov/pubmed/29682411), PeerJ., 2018.
 
-- [Data upon request from the authors](mailto:boraytek@yahoo.co.uk)<br>655 images of thin smears with bounding boxes around parasites<br>Tek FB, Dempster AG, Kale I, [**Parasite detection and identification for automated thin blood film malaria diagnosis.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719653/) Computer Vision and Image Understanding 2010, 114:21-32.
+- [Download link](https://drive.google.com/open?id=1EMJ7dg0TBs34sDWcj7Tj1wozXJC0wtbc)<br>655 images of thin smears with bounding boxes around parasites<br>Tek FB, Dempster AG, Kale I, [**Parasite detection and identification for automated thin blood film malaria diagnosis.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2719653/) Computer Vision and Image Understanding 2010, 114:21-32.
 
 
 ## *Plasmodium vivax*
