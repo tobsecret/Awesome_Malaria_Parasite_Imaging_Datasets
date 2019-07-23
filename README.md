@@ -6,7 +6,7 @@ Current stage: humble beginnings
 Contributions welcome! Please report broken links and add new links + citations in the issues or via pull requests!
 
 ## Multiple *Plasmodium* species
-[Download link](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis/archive/master.zip) | [website](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis)<br>**Data:**
+- [Download link](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis/archive/master.zip) | [website](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis)<br>**Data:**
 Thin smears; 229 images in total, i.e. 122 *Plasmodium falciparum* images, 37 *P. malariae* images, 29 *P. ovale* and 46 *P. vivax* images. Image masks designating parasites are given.<br>Loddo A., Di Ruberto C., Kocher M., Prod’Hom G. (2019) [**MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis**](https://link.springer.com/chapter/10.1007/978-3-030-13835-6_7) In: Lepore N., Brieva J., Romero E., Racoceanu D., Joskowicz L. (eds) Processing and Analysis of Biomedical Information. SaMBa 2018. Lecture Notes in Computer Science, vol 11379. Springer, Cham
 
 ## *Plasmodium falciparum*
